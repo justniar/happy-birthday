@@ -121,9 +121,10 @@ body {
 }
 
 .six img {
-  display: inline-block;
-  max-width: 80%;
-  height: auto;
+  /* display: inline-block; */
+  width: 350px;
+  height: 400px;
+  object-fit: cover;
 }
 
 .six .hat {
