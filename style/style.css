@@ -5,12 +5,9 @@ html {
 body {
   margin: 0;
   font-family: "Work Sans", sans-serif;
-  color: black;
-  align-items: center;
 }
 
 .container {
-  align-items: center;
   height: 100vh;
   width: 100vh;
   margin: 0 auto;
@@ -18,7 +15,6 @@ body {
   visibility: hidden;
   position: relative;
   overflow: hidden;
-  color: black;
 }
 
 .container div.six {
